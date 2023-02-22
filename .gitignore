@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Additional items to ignore
+.DS_Store
+desktop.ini
+
 # C extensions
 *.so
 
